@@ -1,4 +1,4 @@
-# mkraftman-sky-q-numpad
+# Mkraftman Sky Q Numpad
 
 Custom HACS Lovelace card for Sky Q numeric channel entry via `remote.send_command`.
 
